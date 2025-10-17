@@ -9,6 +9,10 @@ env/
 venv/
 .venv/
 
+# data
+data/
+dataset/
+
 # IDE and editor settings
 .idea/
 .vscode/
