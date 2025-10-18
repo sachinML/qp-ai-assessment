@@ -12,6 +12,7 @@ venv/
 # data
 data/
 dataset/
+faiss_index/
 
 # IDE and editor settings
 .idea/
